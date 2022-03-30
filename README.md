@@ -1,9 +1,9 @@
-### Steps to Run the Code
+## Steps to Run the Code
 ---
 
-##npm install
+### npm install
 ---
-##npm start
+### npm start
 
 ---
-##Scan the QR Code and the maps start working
+### Scan the QR Code and the maps start working
