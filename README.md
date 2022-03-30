@@ -1,4 +1,4 @@
-## Steps to Run the Code
+## Steps to Run the Code:
 ---
 
 ### npm install
